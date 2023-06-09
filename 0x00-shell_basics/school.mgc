@@ -1,2 +1,2 @@
 #!/bin/bash
-file -i im .mgc*
+file -i im school.mgc*
